@@ -47,7 +47,7 @@ if ($words = file('wordlist.txt')) {
 		$max = count($words) -1;
 		$rand = rand(0,$max);
         
-        $word = $words[rand];
+        $word = $words[$rand];
         
 		array_push($selected_words, $word);
 
@@ -59,7 +59,7 @@ if ($words = file('wordlist.txt')) {
 
 		foreach ($selected_words as $worded => $word) {
 			$selected_words[$worded] = ucfirst($word);
-			echo $selected_words[$worded] . '<br>';
+			echo $selected_words[$worded] . '<br/>';
 		}
 
 	}
