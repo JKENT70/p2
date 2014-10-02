@@ -5,10 +5,11 @@ body {
 }
 
 .pagecontent {
-	width:60%;
+	width:80%;
 	font-family: verdana,arial,sans-serif;
 	font-size:1em;
 	margin:0 auto;
+	margin-top: 20px;
 	padding:15px;
 	border:1px solid #dcdcdc;
 	background-color:#eee;
@@ -26,33 +27,12 @@ h2  {
 	text-align:left;
 }
 
-h3  {
-	font-size:1.25em;
-	text-align:left;
-	font-weight:normal;
-	margin-top:1.5em;
-}
--------=====------
 p  {
 	font-size:.80em;
 	font-weight
 }
 
-a {
-	font-size:1em;
-	text-decoration:underline;
-	color:#0000CD;
-}
-
-a:hover {
-	color:#ff0000;
-}
-
-a:visited {
-	color:#c71585;
-}	
-
-.mypic	{
+.snakes	{
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
