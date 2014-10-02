@@ -9,7 +9,8 @@
 <body>
 
 <?php include('content.php'); ?>
+
 </body>
-<script type="text/javascript"></script>
+
 
 </html>

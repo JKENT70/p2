@@ -7,7 +7,7 @@
 	<h2>Generate new password</h2>
 		<div style="width:90%; margin: 0 auto;">	
 			<form method="post" action="index.php">
-				<table width="100%" cellpadding="3" cellspacing="0" border="0"
+				<table cellpadding="3" cellspacing="0" border="0"
 					<tr>
 						<td>
 							<label name="">Number of Words</label>
