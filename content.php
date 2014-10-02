@@ -1,5 +1,6 @@
+<?php require('logic.php'); ?>
 
-< div class="pagecontent">
+<div class="pagecontent">
 
 	<h2>XKCD Password Generator</h2>
 	<h2>Your current password</h2>
@@ -23,7 +24,7 @@
 			<input type="submit" name="submit" value="submit"/>
 			
 		</form>
-		
+</div>		
 
 
 
