@@ -21,7 +21,7 @@ if(isset($_POST['submit']) ) {
     } 
     
     if ($useupper == 'y') {
-        $pword = ucfirst($pword);   
+        $pword = strtoupper($pword);   
     }
 
     if ($usesym == 'y') {
