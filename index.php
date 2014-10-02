@@ -6,7 +6,7 @@
 
 <body>
 <?php include(content.php); ?>
-
+Hello.
 </body>
 <script type="text/javascript"></script>
 

@@ -1,8 +1,7 @@
 <style>
 body {
-	background-image: url(images/bkground.jpg);
-	background-repeat: repeat-x;
 	width:60em;
+	border-radius:1px solid #000;
 }
 
 .pagecontent {
