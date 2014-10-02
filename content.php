@@ -2,7 +2,7 @@
 
 	<h1>XKCD Password Generator</h1>
     <br><br>
-    <img class="snakes" src="password.jpg" alt="Password Image">
+    <img class="snakes" src="img/password.jpg" alt="Password Image">
     <br><br>
 	<h2>Generate new password</h2>
 		
