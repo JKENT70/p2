@@ -3,11 +3,11 @@
 	<h1>XKCD Password Generator</h1>
     <br><br>
     <img class="snakes" src="img/password.JPG" alt="Password Image">
-    <br><br>
+    <br>
 	<h2>Generate new password</h2>
 		<div style="width:90%; margin: 0 auto;">	
 			<form method="post" action="index.php">
-				<table width="100%" cellpadding="5" cellspacing="0" border="0"
+				<table width="100%" cellpadding="3" cellspacing="0" border="0"
 					<tr>
 						<td>
 							<label name="">Number of Words</label>
