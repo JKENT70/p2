@@ -1,3 +1,4 @@
+<?php require('logic.php'); ?>
 <!DOCTYPE html>
 
 <html>

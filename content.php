@@ -1,4 +1,4 @@
-<?php require('logic.php'); ?>
+
 
 <div class="pagecontent">
 
