@@ -1,5 +1,7 @@
-<!DOCTYPE html>
 <?php require('logic.php'); ?>
+
+<!DOCTYPE html>
+
 <html>
 <?php include('header.php'); ?>
 

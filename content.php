@@ -11,13 +11,13 @@
 			<input type="text" id="count" name="count"><br>
 
 			<label name="uppercase">Uppercase first letter</label>
-			<input type="checkbox" name="uppercase" value="checkbox"/> <?php echo ($uppercase) ? 'checked="checked"' : '' ; ?> /><br>
+			<input type="checkbox" name="uppercase" value="checkbox" <?php echo ($uppercase) ? 'checked="checked"' : '' ; ?> /><br/>
 
 			<label name="symbol">Use a symbol?</label>
-			<input type="checkbox" name="symbol" value="symbol"/> <?php echo ($symbol) ? 'checked="checked"' : '' ; ?> /><br>
+			<input type="checkbox" name="symbol" value="symbol" <?php echo ($symbol) ? 'checked="checked"' : '' ; ?> /><br/>
 
 			<label name="number">Include a number?</label>
-			<input type="checkbox" name="number"/ value="number"> <?php echo ($number) ? 'checked="checked"' : '' ; ?> /><br>
+			<input type="checkbox" name="number"/ value="number" <?php echo ($number) ? 'checked="checked"' : '' ; ?> /><br />
 
 			<input type="submit" name="submit" value="submit"/>
 			
