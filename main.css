@@ -28,8 +28,9 @@ h2  {
 }
 
 p  {
-	font-size:.80em;
-	font-weight
+	font-size:.90em;
+	font-weight: normal;
+	color:#ff0000;
 }
 
 .snakes	{

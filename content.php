@@ -34,8 +34,8 @@
 				</table>			
 			</form>
 		</div>	
-    <br><br>
-    <div>Your Password is: <?php echo $pword ?></div>
+    <br>
+    <div><p>Your Password is: <?php echo $pword ?></p></div>
     
     
 </div>		
