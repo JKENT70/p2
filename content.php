@@ -12,16 +12,20 @@
 						<td>
 							<label name="">Number of Words</label>
 							<input type="text" id="count" name="count">
-
+						</td>	
+						<td>	
 							<label name="uppercase">Uppercase first letter</label>
 							<input type="checkbox" name="uppercase" value="y" /><br/>
-
+						</td>
+						<td>		
 							<label name="symbol">Use a symbol?</label>
 							<input type="checkbox" name="symbol" value="y" /><br/>
-
+						</td>
+						<td>		
 							<label name="number">Include a number?</label>
 							<input type="checkbox" name="number" value="y" /><br />
-
+						</td>
+						<td>	
 							<input type="submit" name="submit" value="submit"/>
 						</td>
 					</tr>
