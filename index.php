@@ -5,8 +5,7 @@
 
 
 <body>
-<?php include(content.php); ?>
-Hello.
+<?php include('content.php'); ?>
 </body>
 <script type="text/javascript"></script>
 
