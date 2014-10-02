@@ -1,5 +1,3 @@
-
-
 <div class="pagecontent">
 
 	<h2>XKCD Password Generator</h2>

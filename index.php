@@ -1,6 +1,5 @@
-<?php require('logic.php'); ?>
 <!DOCTYPE html>
-
+<?php require('logic.php'); ?>
 <html>
 <?php include('header.php'); ?>
 
