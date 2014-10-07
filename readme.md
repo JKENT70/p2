@@ -3,6 +3,9 @@
 ## Live URL
 <http://p2.johnjkent.com>
 
+Jing URL:
+http://screencast.com/t/E9jppMtfHnf
+
 ## Description
 The project consisted of creating and XKCD password generator using PHP. There are 4 options. 
 Option 1 - Generates words in lowercase letters
